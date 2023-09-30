@@ -1,2 +1,2 @@
 # vue-project
-巷子深Demo
+巷子深wx-mini-program
